@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CSB-SJU-Student-Services:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>CSB-SJU-Student-Services</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="CSB-SJU-Student-Services-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="CSB-SJU-Student-Services:war exploded" />
+    </root>
+  </artifact>
+</component>

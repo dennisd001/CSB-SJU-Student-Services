@@ -31,7 +31,7 @@
         <span class="tooltip">Home</span>
     </li>
     <li>
-        <a href="#">
+        <a href="Account.jsp">
             <i class='bx bx-user' ></i>
             <span class="links_name">Account</span>
         </a>
